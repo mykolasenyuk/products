@@ -1,0 +1,95 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imageUrl": "https://s1.eda.ru/StaticContent/Photos/140812180013/140820212258/p_O.jpg",
+      "name": "Картофель, запеченный в мундире",
+      "count": 100,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        {
+          "id": 3,
+          "productId": 1,
+          "description": "Ароматный, сытный, шипящий домашний картофель, фаршированный сметанно-беконной начинкой, — это очень простой и очень эффектный способ накормить большое количество человек, практически не потратив на готовку ни сил, ни времени. Обычную картошку при желании тут можно заменить на сладкий батат, а в начинку добавить, к примеру, кукурузу или сладкий красный перец.",
+          "date": "14:00 22.08.2021"
+        },
+        {
+          "id": 6,
+          "productId": 1,
+          "description": "шипящий домашний картофель,",
+          "date": "12:00 23.08.2021"
+        }
+      ]
+    },
+    {
+      "name": "Классический греческий салат",
+      "imageUrl": "https://s2.eda.ru/StaticContent/Photos/160105153525/160110193232/p_O.jpg",
+      "count": "270",
+      "weight": "300g",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "id": 4
+    },
+    {
+      "name": "Жареный рис с яйцом по‑китайски",
+      "imageUrl": "https://s2.eda.ru/StaticContent/Photos/150428090447/150505141508/p_O.jpg",
+      "count": "220",
+      "weight": "300g",
+      "size": {
+        "width": 0,
+        "height": 0
+      },
+      "id": 5
+    },
+    {
+      "name": "Маффины с голубикой и мускатным орехом",
+      "imageUrl": "https://s1.eda.ru/StaticContent/Photos/120131111301/140324110953/p_O.jpg",
+      "count": "170",
+      "weight": "375g",
+      "size": {
+        "width": 0,
+        "height": 0
+      },
+      "id": 6
+    },
+    {
+      "name": "Классический греческий салат",
+      "imageUrl": "https://dietdo.ru/wp-content/uploads/2017/03/Grecheskiy-salat-retsept-klassicheskiy-s-foto-poshagovo-min.jpg",
+      "count": "350",
+      "weight": "275g",
+      "size": {
+        "width": 0,
+        "height": 0
+      },
+      "id": 7
+    },
+    {
+      "name": "Салат из красной фасоли с творожным сыром",
+      "imageUrl": "https://s.mediasole.ru/cache/content/data/images/1393/1393226/original.jpg",
+      "count": "32",
+      "weight": "72",
+      "size": {
+        "width": 0,
+        "height": 0
+      },
+      "id": 8
+    },
+    {
+      "name": "Salad",
+      "imageUrl": "https://www.freeiconspng.com/uploads/salad-png-image-3.png",
+      "count": "175",
+      "weight": "425",
+      "size": {
+        "width": "200",
+        "height": "178"
+      },
+      "id": 9
+    }
+  ]
+}
